@@ -1,16 +1,29 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jo%20Yunju&fontSize=90)
 
-<!--
-**seungmin8606/seungmin8606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">💻 I’m currently learning (in school) 💻</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">💻 I’m currently learning (by myself) 💻</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/C#-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unity-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+</p>
+
+<h3 align="left">⚡ GitHub Status ⚡</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=seungmin8606&show_icons=true&theme=tokyonight&icon_color=AA0017">
+</p>
+
+<h3 align="left">⚡ Baekjoon Status ⚡</h3>
+<p align="left">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lsm8606">
+</p>
+
+<h3 align="left">📫 How to reach me 📫</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/lsm8606@hufs.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white"/>&nbsp
+</p>
