@@ -11,6 +11,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kotlin-3DDC84?style=flat&logo=Kotlin&logoColor=blueviolet"/></a>&nbsp
 </p>
 
 <h3 align="left">⚡ GitHub Status ⚡</h3>
