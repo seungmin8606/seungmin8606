@@ -9,8 +9,8 @@
 
 <h3 align="left">💻 I’m currently learning (by myself) 💻</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/CSharp-00599C?style=flat&logo=csharp%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Unity-3776AB?style=flat&logo=Unity&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unreal-3776AB?style=flat&logo=UE&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="left">⚡ GitHub Status ⚡</h3>
